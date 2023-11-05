@@ -1,5 +1,4 @@
-### EX NO : 07
-### Date : 16/09/2023
+
 # <p align="center">Implement-ARMA-in-Python</p>
 
 ## AIM :
